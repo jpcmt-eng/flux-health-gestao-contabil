@@ -1,8 +1,8 @@
-# Vita — Gestão financeira da saúde
+# Flux Health — Gestão contábil para profissionais da saúde
 
 ## Prévia pública
 
-Abra o painel em: https://jpcmt-eng.github.io/vita-gestao-saude/
+Abra o painel em: https://jpcmt-eng.github.io/flux-health-gestao-contabil/
 
 A versão do GitHub Pages usa dados demonstrativos e salva alterações somente no navegador de quem estiver acessando. Execute `npm run build:pages` para gerar novamente os arquivos estáticos publicados.
 

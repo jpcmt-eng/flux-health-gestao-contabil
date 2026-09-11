@@ -5,7 +5,7 @@ import path from "node:path";
 export default defineConfig({
   root: "gh-pages",
   publicDir: "../public",
-  base: "/vita-gestao-saude/",
+  base: "/flux-health-gestao-contabil/",
   plugins: [react()],
   resolve: {
     alias: { "@": path.resolve(__dirname) },
