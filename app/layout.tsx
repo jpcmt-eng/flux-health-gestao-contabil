@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Vita • Gestão financeira da saúde",
+  title: "Flux Health • Gestão financeira da saúde",
   description: "Finanças, documentos e contabilidade em um só lugar.",
   icons: {
     icon: "/favicon.svg",
@@ -21,4 +21,5 @@ export default function RootLayout({
     </html>
   );
 }
+
 
