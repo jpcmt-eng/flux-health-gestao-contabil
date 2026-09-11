@@ -1,0 +1,17 @@
+.pages-demo .side-bottom {
+  font-size: 0;
+}
+
+.pages-demo .side-bottom::after {
+  content: "Demonstração pública";
+  font-size: 12px;
+}
+
+.pages-demo .period-line > span {
+  font-size: 0;
+}
+
+.pages-demo .period-line > span::after {
+  content: "Dados demonstrativos • salvos neste navegador";
+  font-size: 12px;
+}

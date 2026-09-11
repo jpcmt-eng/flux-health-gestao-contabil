@@ -1,5 +1,11 @@
 # Vita — Gestão financeira da saúde
 
+## Prévia pública
+
+Abra o painel em: https://jpcmt-eng.github.io/vita-gestao-saude/
+
+A versão do GitHub Pages usa dados demonstrativos e salva alterações somente no navegador de quem estiver acessando. Execute `npm run build:pages` para gerar novamente os arquivos estáticos publicados.
+
 Prévia privada com interfaces de profissional da saúde e contador. A seleção de interface é demonstrativa e não substitui autenticação e autorização por papéis. O acesso publicado deve permanecer restrito ao proprietário até a implementação de convites e vínculos de usuário por cliente.
 
 ## Recursos
